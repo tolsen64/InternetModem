@@ -46,4 +46,8 @@ My Apple II running ProTERM 3.1, chatting on irc.a2central.com:6667
 
 View original project website [here](http://boycot.no-ip.com/InternetModem)
 
+Watch a demo video of InternetModem in action.
+
+[![Video](http://img.youtube.com/vi/NGY-SSluzvs/0.jpg)](https://youtu.be/NGY-SSluzvs)
+
 ![Hit Counter](http://boycot.no-ip.com/HitCounter/default.aspx?id=GitHub/InternetModem "My Stupid Hit Counter!")
