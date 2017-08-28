@@ -44,4 +44,6 @@ Donate [here](https://www.paypal.me/tolsen64)
 My Apple II running ProTERM 3.1, chatting on irc.a2central.com:6667
 ![screenshot1](https://github.com/tolsen64/InternetModem/blob/master/Images/InetModemScreenA2C.JPG?raw=true)
 
+View original project website [here](http://boycot.no-ip.com/InternetModem)
+
 ![Hit Counter](http://boycot.no-ip.com/HitCounter/default.aspx?id=GitHub/InternetModem "My Stupid Hit Counter!")
