@@ -6,7 +6,7 @@ Donate [here](https://www.paypal.me/tolsen64)
 
 ![screenshot1](https://github.com/tolsen64/InternetModem/blob/master/Images/InetModemScreenShot.JPG?raw=true)
 
-* Completely configurable via included ini file.
+* Completely configurable via included [ini](https://github.com/tolsen64/InternetModem/blob/master/InternetModem/bin/InternetModem.ini) file.
 
 * Listens for incoming telnet connections and connects to the serial port.
 
