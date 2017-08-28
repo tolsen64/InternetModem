@@ -1,0 +1,16 @@
+obj\Debug\InternetModem.exe
+obj\Debug\InternetModem.xml
+obj\Debug\InternetModem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InternetModem.MyResources.resources
+obj\Debug\InternetModem.vbproj.GenerateResource.Cache
+bin\InternetModem.exe.config
+bin\InternetModem.exe
+bin\InternetModem.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\InternetModem.MyResources.resources
+obj\Release\InternetModem.vbproj.GenerateResource.Cache
+obj\Release\InternetModem.exe
+obj\Release\InternetModem.xml
+bin\InternetModem.pdb
+obj\Release\InternetModem.pdb
