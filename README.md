@@ -1,8 +1,10 @@
 # InternetModem
-Telnet Server / Modem Emulator for Windows
+## Telnet Server / Modem Emulator for Windows
 
 Download latest release [here](https://github.com/tolsen64/InternetModem/raw/master/LatestBuild.zip).
 Donate [here](https://www.paypal.me/tolsen64)
+
+![screenshot1](https://github.com/tolsen64/InternetModem/blob/master/Images/InetModemScreenShot.JPG?raw=true)
 
 * Completely configurable via included ini file.
 
@@ -38,5 +40,8 @@ Donate [here](https://www.paypal.me/tolsen64)
 |AT&V|Displays current modem settings|
 |A/|Repeat last AT command|
 |ATD|Redial last system dialed|
+
+My Apple II running ProTERM 3.1, chatting on irc.a2central.com:6667
+![screenshot1](https://github.com/tolsen64/InternetModem/blob/master/Images/InetModemScreenA2C.JPG?raw=true)
 
 ![Hit Counter](http://boycot.no-ip.com/HitCounter/default.aspx?id=GitHub/InternetModem "My Stupid Hit Counter!")
