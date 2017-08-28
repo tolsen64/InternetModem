@@ -41,7 +41,7 @@ Donate [here](https://www.paypal.me/tolsen64)
 |A/|Repeat last AT command|
 |ATD|Redial last system dialed|
 
-My Apple II running ProTERM 3.1, chatting on [irc.a2central.com:6667](irc://irc.a2central.com:6667)
+My Apple II running ProTERM 3.1, chatting on irc.a2central.com:6667
 ![screenshot1](https://github.com/tolsen64/InternetModem/blob/master/Images/InetModemScreenA2C.JPG?raw=true)
 
 View original project website [here](http://boycot.no-ip.com/InternetModem)
