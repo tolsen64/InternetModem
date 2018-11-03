@@ -50,4 +50,4 @@ Watch a demo video of InternetModem in action.
 
 [![Video](http://img.youtube.com/vi/NGY-SSluzvs/0.jpg)](https://youtu.be/NGY-SSluzvs)
 
-![Hit Counter](http://boycot.no-ip.com/HitCounter/default.aspx?id=GitHub/InternetModem "My Stupid Hit Counter!")
+![Hit Counter](http://boycot.no-ip.com/HitCounter/index.php?id=GitHub.InternetModem "My Stupid Hit Counter!")
